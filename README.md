@@ -1,9 +1,7 @@
 ### Davi Monteiro Paulelli
 
-<!--
-**davimonteiropaulelli/davimonteiropaulelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Sou cientista de dados papapapa
+- Sou cientista de dados papapapa
 
 
 
