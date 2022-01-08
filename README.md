@@ -1,3 +1,5 @@
+<hr>
+
 ## <b> 👋 Hello, I'm Davi Monteiro Paulelli! 👋 </b>
 
 ####  <b> About me:</b><br>
