@@ -11,3 +11,5 @@
 <p>
 <a href="https://www.linkedin.com/in/davi-monteiro-paulelli-8813431b0/"><img src="https://s18955.pcdn.co/wp-content/uploads/2017/05/LinkedIn.png" height="30" width="30"></a>
 </p>
+
+<hr>
