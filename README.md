@@ -1,7 +1,8 @@
 ## <b> 👋 Hello, I'm Davi Monteiro Paulelli! 👋 </b>
 
-- About me:<br>
-Hello, it is a pleasure to have you on my Github page!! Well, my name is Davi Monteiro Paulelli, I am a Data Scientist at IBM (International Business Machine), with the main objective of working and improving my knowledge at the vast world of Data, something that has been the focus of my studies.
+  Let's talk a little bit about me first:<br><br>
+  
+  Well, my name is Davi Monteiro Paulelli (pleasure to meet you!), I am a Data Scientist at IBM (International Business Machine), with the main objective of working and improving my knowledge at the vast world of Data, something that has been the focus of my studies.
 
 - 🔭 I’m currently working on IBM (International Business Machine), beeing a Data Scientist, helping my clients with Data Analysis and Machine Learning models in general;
 - 📚 My main focus right now is to improve my knowledge in Machine and Deep Learning. I'm studying the part of neural networks with great focus at the moment.
