@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on IBM (International Business Machine), beeing a Data Scientist, helping my clients with Data Analysis and Machine Learning models in general;
 - 📚 My main focus right now is to improve my knowledge in Machine and Deep Learning. I'm studying the part of neural networks with great focus at the moment.
+- 🙂 Fun fact: I love to go to the gym and lift some weightsss! ![image](https://user-images.githubusercontent.com/62107544/148957965-c83f3834-44e4-4a00-bcf5-431175166bee.png)
+
 
 <br>
 <p>
