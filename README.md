@@ -2,6 +2,8 @@
 
 ## <b> 👋 Hello, I'm Davi Monteiro Paulelli! 👋 </b>
 
+#### <b> Welcome to my portfolio! </b>
+
 ###  <b> About me:</b><br>
   
   Well, mostly it's a pleasure to meet you! I am a Data Scientist at IBM (International Business Machine), with the main objective of working and improving my knowledge at the vast world of Data, something that has been the focus of my studies.
