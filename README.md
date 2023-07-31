@@ -4,12 +4,9 @@
 
 ###  <b> About me:</b><br>
   
-  Well, mostly it's a pleasure to meet you! I am a Data Scientist at BEES (AB-Inbev/Ambev), with the main objective of working and improving my knowledge at the vast world of Data, something that has been the focus of my studies.
+Well, mostly it's a pleasure to meet you! I am a Data Scientist at Ambev (Anhesuer-Busch Inbev), with the main objective of working and improving my knowledge at the vast world of Data, something that has been/and will be forever the focus of my studies.
 
-- 🔭 I’m currently working on BEES (AB-Inbev/Ambev), beeing a Data Scientist, helping my clients with Data Analysis and Machine Learning models in general;
-- 📚 My main focus right now is to improve my knowledge in Machine and Deep Learning. I'm studying the part of neural networks with great focus at the moment;
-- 🎵 The type of song that I mostly listen while working is Lofi (I love lofi!); 
-- 🙂 Fun fact: 🏋️ I love to go to the gym and lift some weightsss! 🏋️
+I'm a Data Scientist with 4+ years of experience with Causal inference, Predictive modeling (Machine Learning), very deep EDAs (Exploratory Data Analysis) and code translations in general, using Python/Pyspark as my main programming languages. I am currently doing the MBA (Master Business Administration) of Artificial Intelligence & Big Data at IME-USP and at the same time working at Ambev (Anhesuer-Busch Inbev), working as the Principal Data Scientist/Machine Learning Engineer at the development of the new Algo-Tasking (basically the heart of our company) and on the creation of machine learning models for the algorithm, to turn it more intelligent and effective. 
 
 
 <br>
