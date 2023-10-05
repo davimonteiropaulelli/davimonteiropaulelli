@@ -4,9 +4,9 @@
 
 ###  <b> About me:</b><br>
   
-Well, mostly it's a pleasure to meet you! I am a Data Scientist at Ambev (Anhesuer-Busch Inbev), with the main objective of working and improving my knowledge at the vast world of Data, something that has been/and will be forever the focus of my studies.
+Well, mostly it's a pleasure to meet you! My name is Davi and my main objective right now is to work and improve my knowledge at the vast world of Data, something that has been/and will be forever the focus of my studies.
 
-I'm a Data Scientist with 4+ years of experience with Causal inference, Predictive modeling (Machine Learning), very deep EDAs (Exploratory Data Analysis) and code translations in general, using Python/Pyspark as my main programming languages. I am currently doing the MBA (Master Business Administration) of Artificial Intelligence & Big Data at IME-USP and at the same time working at Ambev (Anhesuer-Busch Inbev), working as the Principal Data Scientist/Machine Learning Engineer at the development of the new Algo-Tasking (basically the heart of our company) and on the creation of machine learning models for the algorithm, to turn it more intelligent and effective. 
+I'm a Data Scientist with 4+ years of experience with Causal inference, Predictive modeling (Machine Learning), very deep EDAs (Exploratory Data Analysis) and code translations in general, using Python/Pyspark as my main programming languages. I am currently doing the MBA (Master Business Administration) of Artificial Intelligence & Big Data at IME-USP and at the same time working as a Senior Data Science Conultant at BlueShift Brazil, more specifically at ArcelorMittal. 
 
 
 <br>
