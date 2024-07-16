@@ -6,7 +6,7 @@
   
 Well, mostly it's a pleasure to meet you! My name is Davi and my main objective right now is to work and improve my knowledge at the vast world of Data, something that has been/and will be forever the focus of my studies.
 
-I'm a Data Scientist with 4+ years of experience with Causal inference, Predictive modeling (Machine Learning), very deep EDAs (Exploratory Data Analysis) and code translations in general, using Python/Pyspark as my main programming languages. I am currently doing the MBA (Master Business Administration) of Artificial Intelligence & Big Data at IME-USP and at the same time working as a Senior Data Science Conultant at BlueShift Brazil, more specifically at ArcelorMittal. 
+I'm a Data Scientist with 5+ years of experience with Causal inference, Predictive modeling (Machine Learning), very deep EDAs (Exploratory Data Analysis) and code translations in general, using Python/Pyspark as my main programming languages. I am currently doing the MBA (Master Business Administration) of Artificial Intelligence & Big Data at IME-USP and at the same time working as a Senior Data Science Conultant at Falconi. 
 
 
 <br>
